@@ -1,0 +1,10 @@
+name: James
+age: 40
+address: "23 Forte"
+key:
+  kye: value
+  object:
+      another: 'test'
+array:
+    - itmes
+    - item 
